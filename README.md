@@ -73,5 +73,3 @@ Ahmer Mehmood
 LinkedIn:
 www.linkedin.com/in/ahmermehmood7007
 
-GitHub:
-github.com/ahmermehmood0007
